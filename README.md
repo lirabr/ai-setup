@@ -24,16 +24,6 @@ The guide separates baseline tools from trials, optional additions, and alternat
 | Measuring real savings | [Token usage, cost, and efficiency](ai-development-setup.md#12-measuring-token-usage-cost-and-efficiency) |
 | Research and builder feedback | [Evidence](ai-development-setup.md#13-what-research-and-builder-feedback-support) |
 
-## Project-specific references
-
-The existing project guides remain in their original locations to preserve their links and avoid duplicate instructions:
-
-- [Phase 0: reproducible laptop and project environment](../phase-0-laptop-setup.md)
-- [Project tools and resources](../tools-and-resources.md)
-- [Testing and acceptance](../testing-and-acceptance.md)
-- [Operations runbook](../operations-runbook.md)
-
-Run application verification commands from `trading-desk`, not from this folder. The project can be tested offline without an LLM account or broker credentials; coding-agent provider access is a separate tooling choice.
 
 ## Scope
 
